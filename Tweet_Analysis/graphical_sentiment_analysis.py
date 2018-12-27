@@ -12,12 +12,12 @@ import matplotlib.pyplot as plt
 #f = open("/home/bhavyaagrawal/Desktop/tweets.txt",'w+')
 
 # consumer credentials
-consumer_key = 'SR426hYSxHVJ98h5hqGMe1TSs'
-consumer_secret = '3MS7oWSvxNwJQQzOylHORZiWA94w1bbb1rZSxRKqJ1RRoxuOzh'
+consumer_key = '######'
+consumer_secret = '##########'
 
 #access credentials for tweet access
-access_token_key = '831362319850598405-NUKjq8iAXACrvrfS37GMM7tU51UNTDw'
-access_token_secret = 'r62sGSSK0yMANUboZSEQ856sOXFa90XQXcpJLvIBNyKgk'
+access_token_key = '#################'
+access_token_secret = '#####################'
 
 # to authenticate ourself
 auth = tweepy.OAuthHandler(consumer_key,consumer_secret)
